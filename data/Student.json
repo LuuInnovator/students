@@ -1,0 +1,30 @@
+[
+  {
+    "id": "10",
+    "name": "Truong Gia Binh",
+    "courses": [
+      {
+        "course": "math",
+        "grade": "10"
+      },
+      {
+        "course": "Physics",
+        "grade": "8"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Le Truong Tung",
+    "courses": [
+      {
+        "course": "Chemistry",
+        "grade": "8"
+      },
+      {
+        "course": "Biology",
+        "grade": "7"
+      }
+    ]
+  }
+]
